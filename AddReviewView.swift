@@ -44,6 +44,6 @@ struct AddReviewView: View {
 //  AddReviewView.swift
 //  Blurbie
 //
-//  Created by Hibiskus2 on 15/06/25.
+// 
 //
 
